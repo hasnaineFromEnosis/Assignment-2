@@ -3,5 +3,6 @@
         <file>main.qml</file>
         <file>assets/rec.png</file>
         <file>assets/background.png</file>
+        <file>ImageRotationAnimation.qml</file>
     </qresource>
 </RCC>

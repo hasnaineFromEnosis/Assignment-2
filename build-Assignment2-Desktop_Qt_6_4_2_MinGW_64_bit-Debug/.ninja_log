@@ -1,37 +1,13 @@
 # ninja log v5
 0	41	6957299856616869	.qt_plugins/Qt6_QmlPlugins_Imports_Assignment2.cmake	a1b42aaad8d0fc94
 0	41	6957299856616869	C:/Users/hasnaine/Documents/QT Practice/Assignment-2/build-Assignment2-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_Assignment2.cmake	a1b42aaad8d0fc94
-42	197	6957299857405890	C:/Users/hasnaine/Documents/QT Practice/Assignment-2/build-Assignment2-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment2_autogen/timestamp	f2e1cce0e8669cd7
-42	197	6957299857405890	Assignment2_autogen/timestamp	f2e1cce0e8669cd7
-4	56	6957474412984505	Assignment2_autogen/EWIEGA46WW/qrc_qml.cpp	2746487ad2a581e3
-42	197	6957299857405890	Assignment2_autogen/mocs_compilation.cpp	f2e1cce0e8669cd7
-4	56	6957474412984505	C:/Users/hasnaine/Documents/QT Practice/Assignment-2/build-Assignment2-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment2_autogen/EWIEGA46WW/qrc_qml.cpp	2746487ad2a581e3
-42	197	6957299857405890	C:/Users/hasnaine/Documents/QT Practice/Assignment-2/build-Assignment2-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment2_autogen/mocs_compilation.cpp	f2e1cce0e8669cd7
-242	287	6957299859084896	CMakeFiles/Assignment2.dir/Assignment2_autogen/mocs_compilation.cpp.obj	5d8bd6e331218a53
-56	116	6957474413628490	CMakeFiles/Assignment2.dir/Assignment2_autogen/EWIEGA46WW/qrc_qml.cpp.obj	dbc0fcae5581a76c
-245	1526	6957299871461044	CMakeFiles/Assignment2.dir/main.cpp.obj	13554d1d19b2f50d
-116	266	6957474415074367	Assignment2.exe	78ec356784ab1212
-4	172	6957475094675741	Assignment2_autogen/timestamp	f2e1cce0e8669cd7
-4	172	6957475094675741	Assignment2_autogen/mocs_compilation.cpp	f2e1cce0e8669cd7
 4	172	6957475094675741	C:/Users/hasnaine/Documents/QT Practice/Assignment-2/build-Assignment2-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment2_autogen/timestamp	f2e1cce0e8669cd7
-4	172	6957475094675741	C:/Users/hasnaine/Documents/QT Practice/Assignment-2/build-Assignment2-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment2_autogen/mocs_compilation.cpp	f2e1cce0e8669cd7
-180	281	6957475095730512	Assignment2_autogen/EWIEGA46WW/qrc_qml.cpp	2746487ad2a581e3
-180	281	6957475095730512	C:/Users/hasnaine/Documents/QT Practice/Assignment-2/build-Assignment2-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment2_autogen/EWIEGA46WW/qrc_qml.cpp	2746487ad2a581e3
-282	1170	6957475104650611	CMakeFiles/Assignment2.dir/Assignment2_autogen/EWIEGA46WW/qrc_qml.cpp.obj	dbc0fcae5581a76c
-1171	1334	6957475106237666	Assignment2.exe	78ec356784ab1212
-5	92	6957475629370984	Assignment2_autogen/EWIEGA46WW/qrc_qml.cpp	2746487ad2a581e3
-5	92	6957475629370984	C:/Users/hasnaine/Documents/QT Practice/Assignment-2/build-Assignment2-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment2_autogen/EWIEGA46WW/qrc_qml.cpp	2746487ad2a581e3
-93	913	6957475637622337	CMakeFiles/Assignment2.dir/Assignment2_autogen/EWIEGA46WW/qrc_qml.cpp.obj	dbc0fcae5581a76c
-914	1059	6957475639035308	Assignment2.exe	78ec356784ab1212
-4	90	6957476967787574	Assignment2_autogen/EWIEGA46WW/qrc_qml.cpp	2746487ad2a581e3
-4	90	6957476967787574	C:/Users/hasnaine/Documents/QT Practice/Assignment-2/build-Assignment2-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment2_autogen/EWIEGA46WW/qrc_qml.cpp	2746487ad2a581e3
-91	916	6957476976089132	CMakeFiles/Assignment2.dir/Assignment2_autogen/EWIEGA46WW/qrc_qml.cpp.obj	dbc0fcae5581a76c
-917	1059	6957476977474379	Assignment2.exe	78ec356784ab1212
-5	89	6957478247135913	Assignment2_autogen/EWIEGA46WW/qrc_qml.cpp	2746487ad2a581e3
-5	89	6957478247135913	C:/Users/hasnaine/Documents/QT Practice/Assignment-2/build-Assignment2-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment2_autogen/EWIEGA46WW/qrc_qml.cpp	2746487ad2a581e3
-90	1194	6957478258216453	CMakeFiles/Assignment2.dir/Assignment2_autogen/EWIEGA46WW/qrc_qml.cpp.obj	dbc0fcae5581a76c
-1195	1355	6957478259786740	Assignment2.exe	78ec356784ab1212
+4	172	6957475094675741	Assignment2_autogen/timestamp	f2e1cce0e8669cd7
 6	88	6957478433327127	Assignment2_autogen/EWIEGA46WW/qrc_qml.cpp	2746487ad2a581e3
+4	172	6957475094675741	Assignment2_autogen/mocs_compilation.cpp	f2e1cce0e8669cd7
 6	88	6957478433327127	C:/Users/hasnaine/Documents/QT Practice/Assignment-2/build-Assignment2-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment2_autogen/EWIEGA46WW/qrc_qml.cpp	2746487ad2a581e3
+4	172	6957475094675741	C:/Users/hasnaine/Documents/QT Practice/Assignment-2/build-Assignment2-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment2_autogen/mocs_compilation.cpp	f2e1cce0e8669cd7
+242	287	6957299859084896	CMakeFiles/Assignment2.dir/Assignment2_autogen/mocs_compilation.cpp.obj	5d8bd6e331218a53
 88	1038	6957478442864456	CMakeFiles/Assignment2.dir/Assignment2_autogen/EWIEGA46WW/qrc_qml.cpp.obj	dbc0fcae5581a76c
+245	1526	6957299871461044	CMakeFiles/Assignment2.dir/main.cpp.obj	13554d1d19b2f50d
 1039	1185	6957478444297054	Assignment2.exe	78ec356784ab1212
