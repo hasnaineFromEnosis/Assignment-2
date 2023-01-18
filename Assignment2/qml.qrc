@@ -4,5 +4,6 @@
         <file>assets/rec.png</file>
         <file>assets/background.png</file>
         <file>ImageRotationAnimation.qml</file>
+        <file>ClickableImage.qml</file>
     </qresource>
 </RCC>
