@@ -119,7 +119,7 @@ Window {
             onPressed: playbanner.start()
         }
 
-        SequentialAnimation {
+        ParallelAnimation {
             id: playbanner
             running: false
             NumberAnimation { target: code; property: "opacity"; to: 1.0; duration: 200}
