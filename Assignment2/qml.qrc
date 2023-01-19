@@ -5,5 +5,6 @@
         <file>EasingCurve.qml</file>
         <file>assets/soccer_ball.png</file>
         <file>FootballField.qml</file>
+        <file>TrafficLight.qml</file>
     </qresource>
 </RCC>
