@@ -8,7 +8,7 @@ Window {
     title: qsTr("Assignment-2")
     color:"black"
 
-    ClickableImage {
+    ClickableImageV2 {
         source: "assets/rec.png"
         text: "Hi from Has9"
         id: root
@@ -26,14 +26,14 @@ Window {
 
     ClickableImage {
             id: blueBox
-            x: 400; y: root.height-height
+            x: 800; y: 300
             source: "assets/rec.png"
             text: "behavior on property"
             Behavior on y {
                 NumberAnimation { duration: 4000 }
             }
 
-            onClicked: y = 40
+            onClicked: y = 40+(Math.random()*(205-40))
             // random y on each click
     //        onClicked: y = 40+Math.random()*(205-40)
     }
@@ -42,27 +42,27 @@ Window {
             id: greenbox
             x: 0; y: 400
             source: "assets/rec.png"
-            text: "behavior on property"
-            Behavior on y {
-                NumberAnimation { duration: 4000 }
+            text: "animation on property"
+            NumberAnimation on y {
+                to: 40; duration: 4000
             }
-
-            onClicked: y = 40
-            // random y on each click
-    //        onClicked: y = 40+Math.random()*(205-40)
     }
 
     ClickableImage {
             id: redbox
             x: 400; y: 400
             source: "assets/rec.png"
-            text: "behavior on property"
-            Behavior on y {
-                NumberAnimation { duration: 4000 }
-            }
+            onClicked: anim.start()
+            //        onClicked: anim.restart()
 
-            onClicked: y = 40
-            // random y on each click
-    //        onClicked: y = 40+Math.random()*(205-40)
+                    text: "standalone animation"
+
+                    NumberAnimation {
+                        id: anim
+                        target: redBox
+                        properties: "y"
+                        to: 40
+                        duration: 4000
+                    }
     }
 }
