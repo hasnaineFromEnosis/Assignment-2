@@ -4,5 +4,6 @@
         <file>assets/rec.png</file>
         <file>EasingCurve.qml</file>
         <file>assets/soccer_ball.png</file>
+        <file>FootballField.qml</file>
     </qresource>
 </RCC>
