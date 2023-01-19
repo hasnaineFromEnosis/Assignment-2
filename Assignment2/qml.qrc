@@ -3,5 +3,6 @@
         <file>main.qml</file>
         <file>assets/rec.png</file>
         <file>EasingCurve.qml</file>
+        <file>assets/soccer_ball.png</file>
     </qresource>
 </RCC>
