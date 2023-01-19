@@ -6,4 +6,7 @@ Window {
     height: 500
     visible: true
     title: qsTr("Assignment-2")
+
+
+
 }

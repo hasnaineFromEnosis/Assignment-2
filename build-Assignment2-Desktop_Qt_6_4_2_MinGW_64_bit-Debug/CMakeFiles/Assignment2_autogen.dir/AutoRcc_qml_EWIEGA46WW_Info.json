@@ -7,6 +7,7 @@
 	"INCLUDE_DIR" : "C:/Users/hasnaine/Documents/QT Practice/Assignment-2/build-Assignment2-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment2_autogen/include",
 	"INPUTS" : 
 	[
+		"C:/Users/hasnaine/Documents/QT Practice/Assignment-2/Assignment2/EasingCurve.qml",
 		"C:/Users/hasnaine/Documents/QT Practice/Assignment-2/Assignment2/main.qml",
 		"C:/Users/hasnaine/Documents/QT Practice/Assignment-2/Assignment2/assets/rec.png"
 	],
